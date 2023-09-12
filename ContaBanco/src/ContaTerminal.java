@@ -32,8 +32,4 @@ public class ContaTerminal {
                             );
 
     }
-
-    private static String upper(String nomeCliente) {
-        return null;
-    }
 }
