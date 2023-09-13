@@ -29,6 +29,7 @@ public class ContaTerminal {
                             + numero + " e seu saldo "
                             + saldo + " já está disponivel para saque."                            
                             );
+      scanner.close();
 
     }
 }
